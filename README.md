@@ -2,5 +2,5 @@
 The code of the hihocoder weekly and competitions
 
 - weekly: hiho一下
-<a name="/Hihocode/week125">Week 125</a>
+[week 125]:/Hihocode/week125
 - competition: 比赛
